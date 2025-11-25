@@ -1,4 +1,4 @@
-let input =require("prompt-sync")();
+let input = require ("prompt-sync")();
 let listOfGuest = [ ];
 let continueProgram= "yes";
 
